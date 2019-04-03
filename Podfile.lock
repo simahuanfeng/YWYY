@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (4.8.1)
+  - ESTabBarController-swift (2.6.4)
+  - Moya (12.0.1):
+    - Moya/Core (= 12.0.1)
+  - Moya/Core (12.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.0)
+  - Result (4.1.0)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - ESTabBarController-swift
+  - Moya
+  - SnapKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ESTabBarController-swift
+    - Moya
+    - Result
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  ESTabBarController-swift: 58cca4ab7de980657d99a02181c1ff310983e975
+  Moya: cf730b3cd9e005401ef37a85143aa141a12fd38f
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 520aad3f739deb2255f8d194d592a4316a4d7faf
+
+COCOAPODS: 1.6.1
